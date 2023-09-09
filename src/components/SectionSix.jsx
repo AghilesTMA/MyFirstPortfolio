@@ -60,19 +60,19 @@ const Footer = () => {
             <a href="#home">.Home()</a>
           </li>
           <li className=" opacity-70 hover:opacity-100 hover:text-secondary-blue cursor-pointer">
-            <a href="#home">.AboutMe()</a>
+            <a href="#about">.AboutMe()</a>
           </li>
           <li className=" opacity-70 hover:opacity-100 hover:text-secondary-blue cursor-pointer">
-            <a href="#home">.Skills()</a>
+            <a href="#skills">.Skills()</a>
           </li>
           <li className=" opacity-70 hover:opacity-100 hover:text-secondary-blue cursor-pointer">
-            <a href="#home">.Work()</a>
+            <a href="#work">.Work()</a>
           </li>
           <li className=" opacity-70 hover:opacity-100 hover:text-secondary-blue cursor-pointer">
-            <a href="#home">.Chat()</a>
+            <a href="#chat">.Chat()</a>
           </li>
           <li className=" opacity-70 hover:opacity-100 hover:text-secondary-blue cursor-pointer">
-            <a href="#home">.Contact()</a>
+            <a href="#contact">.Contact()</a>
           </li>
         </ul>
       </div>

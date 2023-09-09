@@ -57,7 +57,7 @@ const ChatBody = () => {
       ],
     },
     {
-      Q: "I like you portfolio",
+      Q: "I like your portfolio",
       A: [
         "Thank you,I'm Glad you like it!!",
         "My goal is to make professional Web Apps,and a good user experience",

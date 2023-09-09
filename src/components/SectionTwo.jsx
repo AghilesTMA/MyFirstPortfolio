@@ -25,7 +25,7 @@ const AboutComponent = () => {
           <div className=" flex flex-col justify-center gap-4 items-center md:items-start p-2 w-full h-full bg-light-darker dark:bg-dark-lighter text-dark-text dark:text-light">
             <span className=" font-bold text-lg">
               {`<`}
-              <span className=" text-primary-pink">Who am I?</span>
+              <span className=" whitespace-nowrap text-primary-pink">Who am I?</span>
               {`/>`}
             </span>
             <p className=" w-full font-medium">
